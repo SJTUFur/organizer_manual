@@ -13,7 +13,7 @@ section: 开始阅读
 
 ## 立志篇
 
-* [引言——立志篇](determination/opening.md)
+* [写在前面](determination/opening.md)
 * [从零开始做一个“领导者”](determination/kickstarter.md)
 * [举办活动的目的和修养](determination/activity_purpose.md)
 * [行动力是关键](determination/action_is_key.md)
@@ -23,7 +23,7 @@ section: 开始阅读
 
 ## 活动篇
 
-* [引言——活动篇](activities/opening.md)
+* [写在前面](activities/opening.md)
 * [每年惯例活动](activities/annual-traditions.md)
 * [轰趴](activities/house-party.md)
 * [饭局](activities/dinners.md)
@@ -33,7 +33,7 @@ section: 开始阅读
 
 ## 工具篇
 
-* [引言——工具篇](tools/opening.md)
+* [写在前面](tools/opening.md)
 * [腾讯文档：收集表与备忘录](tools/tencent-docs.md)
 * [用 Canva 进行设计](tools/canva.md)
 * [剪映简略介绍](tools/jianying.md)
