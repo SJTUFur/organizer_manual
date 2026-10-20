@@ -17,11 +17,26 @@ section: 开始阅读
 * [从零开始做一个“领导者”](determination/kickstarter.md)
 * [举办活动的目的和修养](determination/activity_purpose.md)
 * [行动力是关键](determination/action_is_key.md)
+* [群主的道德修养](determination/ethics.md)
+* [世界上神人不少，别太敏感。](determination/difficult-people.md)
+* [适当分工合作](determination/teamwork.md)
 
 ## 活动篇
 
-* [9月底：新生饭](activities/september-welcome-dinner.md)
-* [10月国庆结束前：秋日小聚](activities/autumn-gathering.md)
-* [12月圣诞节：交换礼物圣诞爬](activities/christmas-gift-party.md)
-* [2月/3月开学：新生饭](activities/spring-welcome-dinner.md)
-* [五一/清明/儿童节：春日小聚](activities/spring-gathering.md)
+* [引言——活动篇](activities/opening.md)
+* [每年惯例活动](activities/annual-traditions.md)
+* [轰趴](activities/house-party.md)
+* [饭局](activities/dinners.md)
+* [全家福约稿](activities/group-portrait.md)
+* [组织共同前往兽展](activities/convention-trips.md)
+* [交换礼物](activities/gift-exchange.md)
+
+## 工具篇
+
+* [引言——工具篇](tools/opening.md)
+* [腾讯文档：收集表与备忘录](tools/tencent-docs.md)
+* [用 Canva 进行设计](tools/canva.md)
+* [剪映简略介绍](tools/jianying.md)
+* [文案编写：把事情说清楚，也用好 AI](tools/copywriting.md)
+* [群组管理：QQ 公告发布](tools/group-management.md)
+* [社群资源：B 站与社群网页](tools/community-resources.md)
