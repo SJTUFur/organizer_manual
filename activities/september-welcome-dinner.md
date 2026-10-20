@@ -1,7 +1,7 @@
 ---
 title: 9月底：新生饭
 in_nav: true
-nav_order: 2
+nav_order: 30
 section: 活动篇
 ---
 

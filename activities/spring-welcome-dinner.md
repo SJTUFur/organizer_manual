@@ -1,7 +1,7 @@
 ---
 title: 2月/3月开学：新生饭
 in_nav: true
-nav_order: 5
+nav_order: 33
 section: 活动篇
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 10月国庆结束前：秋日小聚
 in_nav: true
-nav_order: 3
+nav_order: 31
 section: 活动篇
 ---
 

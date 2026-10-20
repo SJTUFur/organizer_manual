@@ -1,7 +1,7 @@
 ---
 title: 举办活动的目的和修养
 in_nav: true
-nav_order: 4
+nav_order: 12
 section: 立志篇
 ---
 
