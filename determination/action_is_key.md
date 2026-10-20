@@ -1,7 +1,7 @@
 ---
 title: 行动力是关键
 in_nav: true
-nav_order: 13
+nav_order: 130
 section: 立志篇
 ---
 

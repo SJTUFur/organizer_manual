@@ -1,7 +1,7 @@
 ---
 title: 从零开始做一个“领导者”
 in_nav: true
-nav_order: 11
+nav_order: 110
 section: 立志篇
 ---
 

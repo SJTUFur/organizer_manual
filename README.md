@@ -8,16 +8,27 @@ section: 开始阅读
 
 # SJTU Furry 活动组织手记
 
-记录作为 SJTU Furry 群体活动组织者与策划者的心得和经验，供自己回顾，也供后来参与组织的人参考。
+这份手记由瑞皮 rappy 编写，记录自 2023 年起参与 SJTU Furry 社群、组织与策划活动的经历和思考。希望在毕业离校前，把这些经验留给后来愿意带着大家玩起来的人，让组织活动的热情和经验继续传下去。
 
-本手册按一个学年的活动节奏编排。时间为常见安排，具体日期由当年的情况决定；尚未记录的经验标为“待补充”。
+手册计划分为**立志篇、活动篇、工具篇**：从组织者的心态与担当，到具体活动的筹备和执行，再到常用工具与技巧。目前正在逐步编写，尚未完成的章节保留框架，工具篇将在后续补充。
 
 ## 从这里开始
 
-- [序言](xu/xu.md)
+- [序言](intro/introduction.md)
 - [完整目录](SUMMARY.md)
 
+## 立志篇
+
+关于为什么开始、如何迈出第一步，以及组织者需要面对的责任与选择。
+
+- [引言——立志篇](determination/opening.md)
+- [从零开始做一个“领导者”](determination/kickstarter.md)
+- [举办活动的目的和修养](determination/activity_purpose.md)
+- [行动力是关键](determination/action_is_key.md)
+
 ## 活动篇
+
+按一个学年的活动节奏，记录为什么要办、怎样筹备、现场遇到了什么，以及下次可以如何调整。时间为常见安排，具体日期由当年的情况决定。
 
 - [9月底：新生饭](activities/september-welcome-dinner.md)
 - [10月国庆结束前：秋日小聚](activities/autumn-gathering.md)
@@ -25,9 +36,13 @@ section: 开始阅读
 - [2月/3月开学：新生饭](activities/spring-welcome-dinner.md)
 - [五一/清明/儿童节：春日小聚](activities/spring-gathering.md)
 
-## 参与编写
+## 工具篇
 
-可以直接编辑对应 Markdown 文件，也可以通过 Issue 提出建议、通过 Pull Request 补充经验。记录时请说明背景、自己的选择、实际结果与下一次的调整。新增章节时同步更新 SUMMARY.md 中的目录链接。
+计划整理活动组织中常用的工具与技巧，目前尚未建立章节。
+
+## 反馈与维护
+
+如果发现内容有欠缺或错误，欢迎通过 Issue 提出建议。手册以作者的亲身经历与反思为主，阅读具体经验时也请结合活动当时的情境。
 
 本手册通过 GitHub Pages 发布。修改 Markdown 并推送到 main 分支后，网页会自动更新。文件结构也保留了 GitBook 导入支持。
 

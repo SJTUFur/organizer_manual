@@ -1,7 +1,7 @@
 ---
 title: 引言--立志篇
 in_nav: true
-nav_order: 10
+nav_order: 100
 section: 立志篇
 ---
 

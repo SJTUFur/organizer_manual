@@ -9,7 +9,14 @@ section: 开始阅读
 
 ## 序
 
-* [序言](xu/xu.md)
+* [序言](intro/introduction.md)
+
+## 立志篇
+
+* [引言——立志篇](determination/opening.md)
+* [从零开始做一个“领导者”](determination/kickstarter.md)
+* [举办活动的目的和修养](determination/activity_purpose.md)
+* [行动力是关键](determination/action_is_key.md)
 
 ## 活动篇
 
