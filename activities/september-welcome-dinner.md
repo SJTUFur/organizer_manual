@@ -1,3 +1,10 @@
+---
+title: 9月底：新生饭
+in_nav: true
+nav_order: 2
+section: 活动篇
+---
+
 # 9月底：新生饭
 
 ## 活动定位

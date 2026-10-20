@@ -1,0 +1,23 @@
+title: SJTU Furry 活动组织手记
+description: 留下活动背后的思考，让下一位组织者更从容。
+lang: zh-CN
+url: https://sjtufur.github.io
+baseurl: /organizer_manual
+repository: SJTUFur/organizer_manual
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitbook.yaml

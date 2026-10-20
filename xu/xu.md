@@ -1,3 +1,10 @@
+---
+title: 序言
+in_nav: true
+nav_order: 1
+section: 序
+---
+
 # 序言
 
 这份手记希望记录我作为 SJTU Furry 群体活动组织者与策划者的心得和经验。

@@ -1,0 +1,9 @@
+---
+layout: null
+---
+{% assign chapters = site.pages | where: 'in_nav', true | sort: 'nav_order' %}
+[
+{% for chapter in chapters %}
+  {"title": {{ chapter.title | jsonify }}, "url": {{ chapter.url | relative_url | jsonify }}, "content": {{ chapter.content | markdownify | strip_html | normalize_whitespace | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
