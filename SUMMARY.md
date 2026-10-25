@@ -14,9 +14,7 @@ section: 开始阅读
 ## 立志篇
 
 * [写在前面](determination/opening.md)
-* [从零开始做一个“领导者”](determination/kickstarter.md)
-* [举办活动的目的和修养](determination/activity_purpose.md)
-* [行动力是关键](determination/action_is_key.md)
+* [从零开始做一个“组织者”](determination/kickstarter.md)
 * [群主的道德修养](determination/ethics.md)
 * [世界上神人不少，别太敏感。](determination/difficult-people.md)
 * [适当分工合作](determination/teamwork.md)
@@ -27,6 +25,8 @@ section: 开始阅读
 * [每年惯例活动](activities/annual-traditions.md)
 * [轰趴](activities/house-party.md)
 * [饭局](activities/dinners.md)
+* [日常团建](activities/ordinary-activity.md)
+* [线上团建：一起约游戏](activities/online-gaming.md)
 * [全家福约稿](activities/group-portrait.md)
 * [组织共同前往兽展](activities/convention-trips.md)
 * [交换礼物](activities/gift-exchange.md)
