@@ -1,7 +1,7 @@
 ---
 title: 日常团建
 in_nav: true
-nav_order: 232
+nav_order: 205
 section: 活动篇
 ---
 

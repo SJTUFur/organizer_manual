@@ -1,7 +1,7 @@
 ---
 title: 线上团建：一起约游戏
 in_nav: true
-nav_order: 234
+nav_order: 206
 section: 活动篇
 ---
 

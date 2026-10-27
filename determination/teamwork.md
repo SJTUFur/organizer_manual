@@ -1,7 +1,7 @@
 ---
 title: 适当分工合作
 in_nav: true
-nav_order: 160
+nav_order: 135
 section: 立志篇
 ---
 

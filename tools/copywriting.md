@@ -1,7 +1,7 @@
 ---
 title: 文案编写：把事情说清楚，也用好 AI
 in_nav: true
-nav_order: 340
+nav_order: 305
 section: 工具篇
 ---
 
